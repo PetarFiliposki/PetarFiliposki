@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ## 🛠️ Tech Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,cs,mysql,git,github,vscode&theme=dark" alt="Tech skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,cs,mysql,django,docker,kubernetes,figma,git,github,vscode&theme=dark" alt="Tech skills" />
 </p>
